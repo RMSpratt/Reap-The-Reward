@@ -5,6 +5,8 @@ This project was created as a way to test the implementation of enemies controll
 
 ![A mock-up of the title screen](./Title-Capture.png?raw=true "Title Screen")
 
+**Playable Link:** https://developer.cloud.unity3d.com/share/share.html?shareId=-ad9zhCLO6Ng114_i7sZmav4CH1xo6W7PDsbow1O4nw
+
 ## Controls
 WASD or Arrow Keys to move.
 - Movement is strictly horizontal
